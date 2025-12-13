@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Handjet:wght,ELSH@100..900,2&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@source "../../../content/**/*";
+
+@theme static {
+  --container-8xl: 90rem;
+
+  /* Typography - Custom Fonts */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-mono: 'Space Mono', monospace;
+
+  /* SimpleList Design System - Amber/Gold accent */
+  --color-amber-50: #FFFBEB;
+  --color-amber-100: #FEF3C7;
+  --color-amber-200: #FDE68A;
+  --color-amber-300: #FCD34D;
+  --color-amber-400: #F5A623;
+  --color-amber-500: #E09515;
+  --color-amber-600: #D97706;
+  --color-amber-700: #B45309;
+  --color-amber-800: #92400E;
+  --color-amber-900: #78350F;
+  --color-amber-950: #451A03;
+
+  /* SimpleList Background Colors */
+  --color-zinc-900: #141416;
+  --color-zinc-950: #0A0A0B;
+}
+
+:root {
+  --ui-container: var(--container-8xl);
+}
+
+/* Dark mode as default - SimpleList */
+.dark {
+  --ui-bg: #0A0A0B;
+  --ui-bg-elevated: #141416;
+  --ui-bg-muted: #1C1C1F;
+}
+
+/* Handjet for callouts/alerts */
+.prose .callout,
+.prose .note,
+.prose blockquote,
+[class*="callout"],
+[class*="alert"] {
+  font-family: 'Handjet', cursive;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+
+/* Space Mono for code blocks */
+pre,
+code,
+.prose pre,
+.prose code {
+  font-family: 'Space Mono', monospace !important;
+}
+
+/* Border radius - consistent rounding */
+* {
+  --ui-radius: 12px;
+}
