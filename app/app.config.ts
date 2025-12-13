@@ -26,7 +26,7 @@ export default defineAppConfig({
     colorMode: true,
     links: [{
       'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/NocturnLabs/docs',
+      'to': 'https://github.com/yumlabs',
       'target': '_blank',
       'aria-label': 'GitHub'
     }]
@@ -36,7 +36,11 @@ export default defineAppConfig({
     colorMode: false,
     links: [{
       'icon': 'i-simple-icons-github',
+<<<<<<< HEAD
       'to': 'https://github.com/NocturnLabs',
+=======
+      'to': 'https://github.com/yumlabs',
+>>>>>>> 32992a0 (feat: initial commit of NocturnLabs docs site)
       'target': '_blank',
       'aria-label': 'NocturnLabs on GitHub'
     }]
@@ -45,11 +49,19 @@ export default defineAppConfig({
     title: 'On This Page',
     bottom: {
       title: 'Community',
+<<<<<<< HEAD
       edit: 'https://github.com/NocturnLabs/docs/edit/main/content',
       links: [{
         icon: 'i-lucide-star',
         label: 'Star on GitHub',
         to: 'https://github.com/NocturnLabs/docs',
+=======
+      edit: 'https://github.com/yumlabs/nocturnlabs-docs/edit/main/content',
+      links: [{
+        icon: 'i-lucide-star',
+        label: 'Star on GitHub',
+        to: 'https://github.com/yumlabs',
+>>>>>>> 32992a0 (feat: initial commit of NocturnLabs docs site)
         target: '_blank'
       }]
     }
