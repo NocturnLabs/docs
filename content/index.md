@@ -33,7 +33,7 @@ Open-source automation tools for developers. Build faster with our scaffolding, 
   color: neutral
   variant: outline
   size: xl
-  to: https://github.com/yumlabs
+  to: https://github.com/NocturnLabs
   target: _blank
   ---
   View on GitHub
@@ -44,7 +44,7 @@ Open-source automation tools for developers. Build faster with our scaffolding, 
   ---
   code: |
     # Initialize a new project
-    yum-scaffold init my-project
+    scaffold init my-project
     
     # Generate AI prompts
     promptgen create
@@ -56,7 +56,7 @@ Open-source automation tools for developers. Build faster with our scaffolding, 
 
   ```bash
   # Initialize a new project
-  yum-scaffold init my-project
+  scaffold init my-project
   
   # Generate AI prompts
   promptgen create
@@ -159,7 +159,7 @@ Our Projects
       to: '/getting-started'
       trailingIcon: i-lucide-arrow-right
     - label: View on GitHub
-      to: 'https://github.com/yumlabs'
+      to: 'https://github.com/NocturnLabs'
       target: _blank
       variant: subtle
       icon: i-simple-icons-github

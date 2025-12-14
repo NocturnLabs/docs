@@ -38,7 +38,7 @@ NocturnLabs builds open-source developer tools focused on automation and product
   ---
   icon: i-lucide-package
   title: Yum Scaffold
-  to: /projects/yum-scaffold
+  to: /projects/scaffold
   ---
   Project scaffolding CLI with customizable templates.
   :::
