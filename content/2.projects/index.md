@@ -47,7 +47,7 @@ Keep your OpenCode installations up to date automatically.
 ---
 
 icon: i-lucide-package
-title: Yum Scaffold
+title: Scaffold
 to: /projects/scaffold
 
 ---
@@ -65,7 +65,7 @@ to: /projects/scaffold-template
 
 ---
 
-Collection of templates for Yum Scaffold.
+Collection of templates for Scaffold.
 :::
 ::
 
