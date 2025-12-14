@@ -47,7 +47,7 @@ NocturnLabs builds open-source developer tools focused on automation and product
   ---
   icon: i-lucide-file-code
   title: Scaffold Templates
-  to: /projects/scaffold-templates
+  to: /projects/scaffold-template
   ---
   Collection of templates for Yum Scaffold.
   :::
@@ -60,7 +60,7 @@ NocturnLabs builds open-source developer tools focused on automation and product
   ---
   icon: i-lucide-sparkles
   title: PromptGen
-  to: /projects/promptgen
+  to: /projects/prompt-gen
   ---
   AI prompt generation and management system.
   :::
@@ -68,8 +68,8 @@ NocturnLabs builds open-source developer tools focused on automation and product
   :::card
   ---
   icon: i-lucide-brain
-  title: Reasoning
-  to: /projects/reasoning
+  title: Deep Reasoning
+  to: /projects/deep-reasoning
   ---
   Advanced reasoning utilities for AI-assisted development.
   :::
@@ -99,8 +99,8 @@ NocturnLabs builds open-source developer tools focused on automation and product
   :::card
   ---
   icon: i-lucide-mic
-  title: Voice Detection
-  to: /projects/voice-detection
+  title: Voice Detect
+  to: /projects/voice-detect
   ---
   Voice activity detection utilities.
   :::
