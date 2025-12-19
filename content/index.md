@@ -86,6 +86,28 @@ Our Projects
 #features
   :::u-page-feature
   ---
+  icon: i-lucide-layout-dashboard
+  ---
+  #title
+  OpenCode Console
+
+  #description
+  Web-based observability dashboard for OpenCode agents. Real-time monitoring, interactive diffs, and session management.
+  :::
+
+  :::u-page-feature
+  ---
+  icon: i-lucide-workflow
+  ---
+  #title
+  OpenCode Conductor
+
+  #description
+  Context-Driven Development plugin. Ground AI agents in your project's mission, tech stack, and coding standards.
+  :::
+
+  :::u-page-feature
+  ---
   icon: i-lucide-bot
   ---
   #title
@@ -97,6 +119,17 @@ Our Projects
 
   :::u-page-feature
   ---
+  icon: i-lucide-database
+  ---
+  #title
+  Personal Knowledge
+
+  #description
+  Dual-interface knowledge management with semantic vector search. Store and retrieve knowledge for AI agents.
+  :::
+
+  :::u-page-feature
+  ---
   icon: i-lucide-package
   ---
   #title
@@ -104,39 +137,6 @@ Our Projects
 
   #description
   Project scaffolding CLI. Generate boilerplate for Rust, Go, TypeScript, and more with customizable templates.
-  :::
-
-  :::u-page-feature
-  ---
-  icon: i-lucide-sparkles
-  ---
-  #title
-  PromptGen
-
-  #description
-  AI prompt generation and management. Create, organize, and version control your prompt library.
-  :::
-
-  :::u-page-feature
-  ---
-  icon: i-lucide-refresh-cw
-  ---
-  #title
-  OpenCode Updater
-
-  #description
-  Keep your OpenCode installations up to date. Automatic version detection and seamless upgrades.
-  :::
-
-  :::u-page-feature
-  ---
-  icon: i-lucide-brain
-  ---
-  #title
-  Reasoning Tools
-
-  #description
-  Advanced reasoning and decision-making utilities for AI-assisted development workflows.
   :::
 
   :::u-page-feature

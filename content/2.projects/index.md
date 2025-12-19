@@ -9,6 +9,49 @@ navigation:
 
 NocturnLabs builds open-source developer tools focused on automation and productivity.
 
+## OpenCode Ecosystem
+
+::card-group
+:::card
+
+---
+
+icon: i-lucide-layout-dashboard
+title: OpenCode Console
+to: /projects/opencode-console
+
+---
+
+Web-based observability and management interface for OpenCode AI agents.
+:::
+
+:::card
+
+---
+
+icon: i-lucide-workflow
+title: OpenCode Conductor
+to: /projects/opencode-conductor
+
+---
+
+Context-Driven Development plugin for grounding AI agents in your project context.
+:::
+
+:::card
+
+---
+
+icon: i-lucide-database
+title: OpenCode Personal Knowledge
+to: /projects/opencode-personal-knowledge
+
+---
+
+Dual-interface knowledge management with semantic search for AI agents.
+:::
+::
+
 ## Autonomous Coding
 
 ::card-group
@@ -29,13 +72,13 @@ Autonomous coding agent for implementing features from specifications.
 
 ---
 
-icon: i-lucide-refresh-cw
-title: OpenCode Updater
+icon: i-lucide-archive
+title: OpenCode Updater (Archived)
 to: /projects/opencode-updater
 
 ---
 
-Keep your OpenCode installations up to date automatically.
+CLI utility for managing OpenCode binary installations. Archived Dec 17, 2025.
 :::
 ::
 
