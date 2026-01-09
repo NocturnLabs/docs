@@ -111,7 +111,7 @@ Our Projects
   icon: i-lucide-bot
   ---
   #title
-  OpenCode Autocode
+  OpenCode Forger
 
   #description
   Autonomous coding agent that implements features from specifications. Continuous development without manual intervention.

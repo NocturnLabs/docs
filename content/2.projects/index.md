@@ -60,8 +60,8 @@ Dual-interface knowledge management with semantic search for AI agents.
 ---
 
 icon: i-lucide-bot
-title: OpenCode Autocode
-to: /projects/opencode-autocode
+title: OpenCode Forger
+to: /projects/opencode-forger
 
 ---
 
